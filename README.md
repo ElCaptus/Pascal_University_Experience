@@ -7,4 +7,4 @@ I learned on Pascal the basics, from variable declaration and typed to data stru
 Learning Pascal using Lazarus IDE enviroment. 
 Every code written in Lazarus IDE.
 Any question write to my e-mail: 
-    marcos909890989098@gmail.com
+    elxcaptus@gmail.com
